@@ -53,6 +53,9 @@ Estudos anteriores sugerem que o COMPAS pode perpetuar desigualdades raciais. Es
 
 2. **Impacto Social**:  
    - Scores elevados podem levar a sentenças mais duras, perpetuando ciclos de desigualdade.
+   - Risco de perpetuação de desigualdades sistêmicas.
+   - Potencial violação de princípios éticos de IA.
+   - O sistema COMPAS, conforme analisado, reproduz viés racial sistêmico, violando princípios estatísticos e éticos.
 
 3. **Recomendações**:  
    - Revisão crítica do uso de algoritmos em decisões judiciais.
