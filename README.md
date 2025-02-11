@@ -40,7 +40,8 @@ Estudos anteriores sugerem que o COMPAS pode perpetuar desigualdades raciais. Es
    *Interpretação*: Disparidade equivalente a 60% de um desvio padrão.
 
 ### Visualizações
-![Distribuição de Scores por Raça](https://via.placeholder.com/600x400)  
+
+![Distribuição de Scores por Raça](Distribuição.png)  
 *Distribuição de scores mostra maior densidade em valores altos para afro-americanos*.
 
 ---
