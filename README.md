@@ -43,7 +43,8 @@ Estudos anteriores sugerem que o COMPAS pode perpetuar desigualdades raciais. Es
 
 ![Distribuição de Scores por Raça](Distribuição.png)  
 *Distribuição de scores mostra maior densidade em valores altos para afro-americanos*.
-
+![Disparidade de TPR e FPR](https://github.com/user-attachments/assets/61c92075-ce26-451a-bb8a-cade3ea756fa)
+*Disparidade de TPR e FPR*
 ---
 
 ## 🔍 Principais Resultados
@@ -76,6 +77,7 @@ Estudos anteriores sugerem que o COMPAS pode perpetuar desigualdades raciais. Es
    git clone https://github.com/gilsonmm6/analise-compas.git
 ---
    📚 Referências
+   
 Bruce, P., & Bruce, A. (2019). Estatística Prática para Cientistas de Dados.
 ProPublica (2016). Machine Bias.
 ---
