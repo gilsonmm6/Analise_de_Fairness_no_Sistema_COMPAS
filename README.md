@@ -44,9 +44,6 @@ Estudos anteriores sugerem que o COMPAS pode perpetuar desigualdades raciais. Es
 ![Distribuição de Scores por Raça](Distribuição.png)  
 *Distribuição de scores mostra maior densidade em valores altos para afro-americanos*.
 
-
-![Disparidade de TPR e FPR](Disparidade de TPR e FPR.png)
-*Disparidade de TPR e FPR*
 ---
 
 ## 🔍 Principais Resultados
