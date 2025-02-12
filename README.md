@@ -78,9 +78,10 @@ Estudos anteriores sugerem que o COMPAS pode perpetuar desigualdades raciais. Es
    ```bash
    git clone https://github.com/gilsonmm6/analise-compas.git
 ---
-   📚 Referências
+  ### 📚 Referências
+   
   - Bruce, P., & Bruce, A. (2019). Estatística Prática para Cientistas de Dados.
-  - ProPublica (2016). Machine Bias.
+  - ProPublica (2016).
 ---
 👥 Contribuições
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request para sugerir melhorias.
