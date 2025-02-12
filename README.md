@@ -42,12 +42,12 @@ Estudos anteriores sugerem que o COMPAS pode perpetuar desigualdades raciais. Es
 ### Visualizações
 
 ![Distribuição de Scores por Raça](Distribuição.png)  
-*Distribuição de scores mostra maior densidade em valores altos para afro-americanos*.
+  *Distribuição de scores mostra maior densidade em valores altos para afro-americanos*.
 
 ---
 
 ## 🔍 Principais Resultados:
-![Disparidade de TPR e FPR](Disparidade_de_TPR_e_FPR.png)
+![Disparidade de TPR e FPR](Disparidade_de_TPR_e_FPR.png)  
 *O sistema COMPAS, reproduz viés racial sistêmico*.
 
 
