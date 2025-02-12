@@ -46,7 +46,10 @@ Estudos anteriores sugerem que o COMPAS pode perpetuar desigualdades raciais. Es
 
 ---
 
-## 🔍 Principais Resultados
+## 🔍 Principais Resultados:
+![Disparidade de TPR e FPR](Disparidade_de_TPR_e_FPR.png)
+*O sistema COMPAS, reproduz viés racial sistêmico*.
+
 
 1. **Viés Sistêmico**:  
    - Afro-americanos recebem scores médios **44% maiores** que caucasianos.
